@@ -1,0 +1,6 @@
+env/
+*.sqlite3  # optional if you want to ignore DB
+__pycache__/
+*.pyc
+*.pyo
+*.pyd   
